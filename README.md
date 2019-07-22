@@ -29,4 +29,4 @@ manually creating json files containing the federal tax brackets and all
 states' tax brackets for multiple years.
   * Taxee also has their own [API](https://taxee.io).
 
-* The JSON library I used was [json-simple] (https://github.com/fangyidong/json-simple).
+* The JSON library I used was [json-simple](https://github.com/fangyidong/json-simple).
